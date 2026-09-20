@@ -1,5 +1,5 @@
 # Ansible Automation Platform (AAP) - Webhook from GitHub to AAP
-Author: Russell Zachary Feeser  
+Author: peter gyedu  
 GitLab & GitHub: @RZFeeser  
 Contact: https://iris7.com || https://rzfeeser.com  
 
